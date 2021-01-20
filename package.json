@@ -1,0 +1,36 @@
+{
+  "name": "reactcolorstars",
+  "version": "1.1.1",
+  "description": "Simple React with Hooks and stars raiting",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "emotion": "10.0.27",
+    "react": "16.12.0",
+    "react-dom": "16.12.0",
+    "react-icons": "3.10.0",
+    "react-scripts": "3.0.1",
+    "uuid": "8.1.0"
+  },
+  "devDependencies": {
+    "typescript": "3.8.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "ReactStars"
+  },
+  "author": "Ivan-Corporation",
+  "license": "ISC"
+}
